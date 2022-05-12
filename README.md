@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  
+  <img src="https://drive.google.com/uc?export=view&id=1HC6VrP9t-nF4w-2FUaR2pU_dhst8vlsB" width="1000" height="200">
   <h1 align="center">Image Segmentation of Medical Scans to Improve Cancer Treatment</h1>
   <p>Deep learning, one of the branches of artificial intelligence, has seen exponential growth in recent years. Furthermore, a large amount of medical data and the development of more powerful computers has also fostered an interest in this area. This project aimed to implement modern deep learning architecture, U-Net, to track healthy organs to improve cancer treatment.</p>
 </div>
